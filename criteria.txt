@@ -1,0 +1,7 @@
+In header: Photo, name, nav bar [about me, projects, contact] nav, ul, lu, a tags
+    *links must scroll page to area (review how it's done in the mod1 project)
+In body
+    projects 5 projects
+        project 1 is project-mod1, it's image should be larger than the others
+        projects 2-5 are smaller and currently not real, give them placeholder images
+        *all images have titles!
